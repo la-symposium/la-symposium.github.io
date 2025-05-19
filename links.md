@@ -9,7 +9,6 @@ title: LA Symposium, リンク
 * [電子情報通信学会 コンピュテーション研究会 (COMP研)](http://www.ieice.org/~comp/){:target="_blank"}
 * [情報処理学会 アルゴリズム研究会 (SIGAL)](http://www.ipsj-sigal.or.jp/){:target="_blank"}
 * [情報処理学会 数理モデル化と問題解決研究会 (MPS)](http://www.ipsj.or.jp/sig/mps/){:target="_blank"}
-* [社会変革の源泉となる革新的アルゴリズム基盤の創出と体系化 (AFSA)](https://afsa.jp){:target="_blank"}
 
 過去のLAシンポジウム
 --------
@@ -20,7 +19,7 @@ title: LA Symposium, リンク
 * [LA 2020](http://www-ppl.ist.osaka-u.ac.jp/la2020/){:target="_blank"}
 * [LA 2019](https://la2019.trs.css.i.nagoya-u.ac.jp/){:target="_blank"}
 * [LA 2018](http://www.nishino-lab.jp/la2018/){:target="_blank"}
-* [LA 2017](http://www.shino.ecei.tohoku.ac.jp/semi/LA2017/){:target="_blank"}
+* [LA 2017](https://www.iss.is.tohoku.ac.jp/semi/LA2017/){:target="_blank"}
 * [LA 2016](https://junkawahara.github.io/la2016/){:target="_blank"}
 * [LA 2015](https://la-symposium2022.github.io//LA2015){:target="_blank"}
 * [LA 2014](http://www.se.hiroshima-u.ac.jp/LA2014/){:target="_blank"}
