@@ -68,8 +68,8 @@ title: LA Symposium 2025, 夏のLA
 
 
 
-<!-- <del>講演申し込み</del> (締め切りました) -->
-[講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"}
+<del>講演申し込み</del> (締め切りました)
+<!-- [講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"} -->
 
 
 講演者は講演申し込みに加えて，期日までに参加登録も済ませていただくようお願いいたします．
