@@ -8,6 +8,7 @@ title: LA Symposium 2025, 夏のLA
 <dl>
   <dt>日程</dt>
   <dd>2025年 <time datetime="2024-07-23">7月23日(水)</time>–<time datetime="2024-07-25">7月25日(金)</time></dd>
+  <dd><a href="./la2025s_program.pdf" target="_blank">プログラム(PDF形式)</a></dd>
   <dt>会場</dt>
   <dd><a href="https://www.aiina.jp/" target="_blank">アイーナ・いわて県民情報交流センター</a> 会議室803 </dd>
   <dd>〒020-0045 <a href="https://maps.app.goo.gl/gFuL2SU9e7B5D9vT7" target="_blank">岩手県盛岡市盛岡駅西通1丁目7−1</a></dd>
@@ -18,7 +19,7 @@ title: LA Symposium 2025, 夏のLA
 [プログラム(HTML形式)](./summer_program.html)
 -->
 
-[プログラム(PDF形式)](./la2025s_program.pdf)
+
 
 
 <!-- <p>
