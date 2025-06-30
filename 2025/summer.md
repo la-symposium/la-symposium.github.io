@@ -17,9 +17,9 @@ title: LA Symposium 2025, 夏のLA
 <!--
 [プログラム(HTML形式)](./summer_program.html)
 -->
-<!--
+
 [プログラム(PDF形式)](./la2025s_program.pdf)
--->
+
 
 <!-- <p>
   <a href="{{site.baseurl}}/2024/la2024s1.jpg">
