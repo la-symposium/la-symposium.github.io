@@ -3,6 +3,7 @@ layout: default
 title: LA Symposium, 会誌
 ---
 
-👁️👁️このページは誰にも教えていないはずなのに，なぜここに？ 
+LAシンポジウム会誌
+--------
 
-[LA会誌 vol.XX(ダミー)](./2025/la2025s_program_v2.pdf)
+[vol.85](./kaishi/LA85_202507.pdf)
