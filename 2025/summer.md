@@ -14,6 +14,7 @@ title: LA Symposium 2025, 夏のLA
   <dd>〒020-0045 <a href="https://maps.app.goo.gl/gFuL2SU9e7B5D9vT7" target="_blank">岩手県盛岡市盛岡駅西通1丁目7−1</a></dd>
 </dl>
 
+本シンポジウムは，東北大学大学院情報科学研究科との共催です．
 
 <!--
 [プログラム(HTML形式)](./summer_program.html)
