@@ -9,13 +9,16 @@ title: LA Symposium 2025, 冬のLA
 <dl>
   <dt>日程</dt>
   <dd>2026年 <time datetime="2025-01-26">1月26日(月)</time>–<time datetime="2025-01-28">1月28日(水)</time></dd>
+  <dd><a href="./la2025w_program.pdf" target="_blank">プログラム(PDF形式)</a></dd>
   <dt>会場</dt>
   <dd><a href="https://www.kurims.kyoto-u.ac.jp/ja/access-01.html" target="_blank">京都大学数理解析研究所 420号室</a></dd>
   <dd>〒606-8502 京都市左京区北白川追分町</dd>
 </dl>
 
-
-[プログラム(PDF形式)（12月17日更新）](./la2025w_program.pdf) 
+<p>
+  <a href="{{site.baseurl}}/2025/260127GroupPhoto.JPG">
+  <img src="{{site.baseurl}}/2025/260127GroupPhoto.JPG" border="0" width="573px" height="225px"></a>
+</p>
 
 講演申し込み
 --------
@@ -91,26 +94,25 @@ EATCS Japan Chapter事務局各位には，温かいご支援に厚く御礼申�
 * [EATCS](http://www.eatcs.org/){:target="_blank"} 
 * [EATCS日本支部](http://www.dais.is.tohoku.ac.jp/eatcs_japan/index-j.html){:target="_blank"} 
 
-本賞の選奨規程とこれまでの受賞者は以下のリンクよりご覧になれます．
-ただし，LAシンポジウム年会費無料化に伴い，本年度は選奨規程の改定が予定されています．
-具体的には，第11条の項目5「次年度の夏のLAシンポジウムへの参加旅費の補助」が，本年度の受賞者より無くなる予定です．あらかじめご了承ください．
+本賞の選奨規程と歴代の受賞者は，以下のリンクよりご覧になれます．
+なお，発表論文賞の受賞者に対する「次年度の夏のLAシンポジウムへの参加旅費の補助」は，2025年度より無くなりました．
 
-* [本賞の選奨規程](http://www.dais.is.tohoku.ac.jp/eatcs_japan/190205sensho.pdf){:target="_blank"} 
+* [本賞の選奨規程（2026年1月27日改定）](http://www.dais.is.tohoku.ac.jp/eatcs_japan/260127sensho.pdf){:target="_blank"} 
 * [これまでの受賞者](http://www.dais.is.tohoku.ac.jp/eatcs_japan/award-j.html){:target="_blank"} 
 
-
-<!--
 ### LA/EATCS-Japan 発表論文賞
 
 今年度の受賞者は，○印の発表者です．おめでとうございます．
 
+[33] Courcelleʼs Theorem for Lipschitz Continuity
+: 儀間 達也 (北海道⼤学)，○ 隈部 壮 (サイバーエージェント)，𠮷⽥ 悠⼀ (国⽴情報学研究所)
 
 ### LA/EATCS-Japan 学生発表論文賞
 
 今年度の受賞者は，◎印の発表者です．おめでとうございます．
 
--->
-
+[35S] 線形マトロイド交叉問題に対する⾼速な近似アルゴリズム
+: ◎ 寺尾 樹哉 (京都⼤学)
 
 ### 選出方針
 
