@@ -12,6 +12,7 @@ title: LA Symposium, リンク
 
 過去のLAシンポジウム
 --------
+* [LA 2025](./2025/index.html){:target="_blank"}
 * [LA 2024](./2024/index.html){:target="_blank"}
 * [LA 2023](./2023/index.html){:target="_blank"}
 * [LA 2022](https://la-symposium2022.github.io/index.html){:target="_blank"}
