@@ -7,7 +7,7 @@ title: LA Symposium 2025, 夏のLA
 --------
 <dl>
   <dt>日程</dt>
-  <dd>2026年 <time datetime="2026-07-27">7月27日(月)</time>–<time datetime="2026-07-29">7月25日(水)</time></dd>
+  <dd>2026年 <time datetime="2026-07-27">7月27日(月)</time>–<time datetime="2026-07-29">7月29日(水)</time></dd>
 <!--  <dd><a href="./la2025s_program_v2.pdf" target="_blank">プログラム(PDF形式)</a></dd> -->
   <dt>会場</dt>
   <dd><a href="https://www.mito-hall.jp/" target="_blank">水戸市民会館</a> 中会議室303・304 </dd>
