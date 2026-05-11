@@ -5,11 +5,9 @@ title: LA Symposium
 
 2026年度LAシンポジウム
 --------
-<!-- [2025年度夏のLA](./summer.html) -->
-2026年度夏のLA（準備中）
+[2026年度夏のLA](./summer.html)
 
-<!-- [2025年度冬のLA](./winter.html) -->
-2026年度冬のLA（準備中）
+[2026年度冬のLA](./summer.html)（準備中）
 
 2026年度LAシンポジウム事務局
 --------
@@ -21,6 +19,4 @@ title: LA Symposium
 * 若月 光夫 (電気通信大学)
 * 三重野 琢也 (電気通信大学)
 
-<!-- 問い合わせ先：la2024_committee [at] kurs10173.sakura.ne.jp -->
-
-
+お問い合わせ先： {% include mail.md %}
