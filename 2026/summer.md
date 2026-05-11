@@ -32,7 +32,7 @@ title: LA Symposium 2025, 夏のLA
 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．
 
 <!-- <del>参加登録</del> (締め切りました) -->
-[参加登録](https://forms.gle/jUHDRPruMLcNrxyx7){:target="_blank"}
+[参加登録](https://forms.gle/jjsTdJhqs5QxRf6x5){:target="_blank"}
 
 ### 参加費
 
@@ -51,7 +51,7 @@ title: LA Symposium 2025, 夏のLA
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
 
 <!-- <del>講演申し込み</del> (締め切りました) --->
-[講演申し込み](https://forms.gle/DN37uS6NWAXudqhD8){:target="_blank"}
+[講演申し込み](https://forms.gle/Psmfco32Ft7UrNmNA){:target="_blank"}
 
 講演者は講演申し込みに加えて，期日までに参加登録も済ませていただくようお願いいたします．
 
@@ -63,7 +63,7 @@ title: LA Symposium 2025, 夏のLA
 講演者の方へ
 --------
 <!-- ~~予稿は 7月24日(金)までに [こちらのGoogleフォーム] にアップロードしていただくようにお願いします．~~　(締め切りました) -->
-予稿は 7/24(金)までに [こちらのGoogleフォーム](https://forms.gle/dzVMMWiod2iyKHtYA){:target="_blank"} にアップロードしていただくようにお願いします．
+予稿は 7/24(金)までに [こちらのGoogleフォーム](https://forms.gle/4HT9T5wAzD2sX5U16){:target="_blank"} にアップロードしていただくようにお願いします．
 予稿は講演申込者および現地参加者にしか公開されません．また会議が終了次第，予稿のアップロード先にアクセスできないようにします．
 
 予稿は以下の書式でお願いいたします．
