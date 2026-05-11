@@ -1,1 +1,1 @@
-la2025-office [at] googlegroups.com
+la2026-office [at] googlegroups.com
