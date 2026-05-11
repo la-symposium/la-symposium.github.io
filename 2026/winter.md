@@ -9,7 +9,7 @@ title: LA Symposium 2026, 冬のLA
 <dl>
   <dt>日程</dt>
   <dd>2026年 <time datetime="2026-02-08">2月8日(月)</time>–<time datetime="2026-02-10">2月10日(水)</time></dd>
-  <dd><a href="./la2025w_program.pdf" target="_blank">プログラム(PDF形式)</a></dd>
+  <!-- <dd><a href="./la2025w_program.pdf" target="_blank">プログラム(PDF形式)</a></dd> -->
   <dt>会場</dt>
   <dd><a href="https://www.kurims.kyoto-u.ac.jp/ja/access-01.html" target="_blank">京都大学数理解析研究所 420号室</a></dd>
   <dd>〒606-8502 京都市左京区北白川追分町</dd>
