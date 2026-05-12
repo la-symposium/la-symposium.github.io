@@ -8,7 +8,7 @@ title: LA Symposium 2026, 冬のLA
 #### 京都大学 数理解析研究所 RIMS共同研究(公開型) 「理論計算機科学の最新動向」 (研究代表者: 伊藤　大雄)
 <dl>
   <dt>日程</dt>
-  <dd>2026年 <time datetime="2026-02-08">2月8日(月)</time>–<time datetime="2026-02-10">2月10日(水)</time></dd>
+  <dd>2027年 <time datetime="2027-02-08">2月8日(月)</time>–<time datetime="2027-02-10">2月10日(水)</time></dd>
   <!-- <dd><a href="./la2025w_program.pdf" target="_blank">プログラム(PDF形式)</a></dd> -->
   <dt>会場</dt>
   <dd><a href="https://www.kurims.kyoto-u.ac.jp/ja/access-01.html" target="_blank">京都大学数理解析研究所 420号室</a></dd>
@@ -27,12 +27,12 @@ TBA
 
 <!-- * LAシンポジウム開催期間中に，京都大学内に臨時の保育室を設置する制度があります．希望される方は，12月7日(日)までに，LAシンポジウム事務局（ la2026-office@googlegroups.com ）までご連絡ください．なお，予算及び会場の都合により対応出来ない場合がありますので，予めご了承ください．-->
 
-* [RIMS共同研究における男女共同参画・ダイバーシティ等に関する取り組みについて](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} をご理解いただいたうえでご参加くださいますようお願いいたします．
+<!-- * [RIMS共同研究における男女共同参画・ダイバーシティ等に関する取り組みについて](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} をご理解いただいたうえでご参加くださいますようお願いいたします．-->
 
 LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
 --------
 
-2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第24回となります． 
+2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第25回となります． 
 EATCS Japan Chapter事務局各位には，温かいご支援に厚く御礼申し上げます．
 
 * [EATCS](http://www.eatcs.org/){:target="_blank"} 
