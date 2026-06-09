@@ -13,24 +13,24 @@ title: LA Symposium 2026, 夏のLA
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th>27日（月）</th>
-      <th>28日（火）</th>
-      <th>29日（水）</th>
+      <th style="border: 1px solid #999; padding: 4px;"></th>
+      <th style="border: 1px solid #999; padding: 4px;">27日（月）</th>
+      <th style="border: 1px solid #999; padding: 4px;">28日（火）</th>
+      <th style="border: 1px solid #999; padding: 4px;">29日（水）</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>午前（9時頃～）</th>
-      <td>自由討論</td>
-      <td>口頭発表</td>
-      <td>口頭発表</td>
+      <th style="border: 1px solid #999; padding: 4px;">午前（9時頃～）</th>
+      <td style="border: 1px solid #999; padding: 4px;">自由討論</td>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表</td>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表</td>
     </tr>
     <tr>
-      <th>午後（13時頃～）</th>
-      <td>口頭発表</td>
-      <td>口頭発表※</td>
-      <td></td>
+      <th style="border: 1px solid #999; padding: 4px;">午後（13時頃～）</th>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表</td>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表※</td>
+      <td style="border: 1px solid #999; padding: 4px;"></td>
     </tr>
   </tbody>
 </table>
