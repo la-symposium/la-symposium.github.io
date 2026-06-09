@@ -35,7 +35,7 @@ title: LA Symposium 2026, 夏のLA
   </tbody>
 </table>
 
-※ 発表件数によっては自由討論にする可能性があります。
+<dd>※ 発表件数によっては自由討論にする可能性があります。</dd>
 
 
 <!--  <dd><a href="./la2025s_program_v2.pdf" target="_blank">プログラム(PDF形式)</a></dd> -->
