@@ -22,9 +22,9 @@ title: LA Symposium 2026, 夏のLA
   <tbody>
     <tr>
       <th style="border: 1px solid #999; padding: 4px;">午前（9時頃～）</th>
-      <td style="border: 1px solid #999; padding: 4px;">自由討論</td>
-      <td style="border: 1px solid #999; padding: 4px;">口頭発表</td>
-      <td style="border: 1px solid #999; padding: 4px;">口頭発表</td>
+      <td style="border: 1px solid #999; padding: 4px;">自由討論<br>　</td>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表<br>総会</td>
+      <td style="border: 1px solid #999; padding: 4px;">口頭発表<br>　</td>
     </tr>
     <tr>
       <th style="border: 1px solid #999; padding: 4px;">午後（13時頃～）</th>
