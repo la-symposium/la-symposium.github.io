@@ -80,8 +80,8 @@ title: LA Symposium 2026, 夏のLA
 
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
 
-<!-- <del>講演申し込み</del> (締め切りました) --->
-[講演申し込み](https://forms.gle/Psmfco32Ft7UrNmNA){:target="_blank"}
+<del>講演申し込み</del> (締め切りました) 
+<!-- [講演申し込み](https://forms.gle/Psmfco32Ft7UrNmNA){:target="_blank"} -->
 
 講演者は講演申し込みに加えて，期日までに参加登録も済ませていただくようお願いいたします．
 
