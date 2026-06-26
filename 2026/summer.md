@@ -8,7 +8,7 @@ title: LA Symposium 2026, 夏のLA
 <dl>
   <dt>日程</dt>
   <dd>2026年 <time datetime="2026-07-27">7月27日(月)</time>–<time datetime="2026-07-29">7月29日(水)</time></dd>
-  <dd>大枠として以下のスケジュールを考えています。講演申込数で変更となる場合がありますのでご注意ください。</dd>
+<!--  <dd>大枠として以下のスケジュールを考えています。講演申込数で変更となる場合がありますのでご注意ください。</dd>
   
 <table>
   <thead>
@@ -33,12 +33,12 @@ title: LA Symposium 2026, 夏のLA
       <td style="border: 1px solid #999; padding: 4px;"></td>
     </tr>
   </tbody>
-</table>
+</table> 
 
-<dd>※ 発表件数によっては自由討論にする可能性があります。</dd>
+<dd>※ 発表件数によっては自由討論にする可能性があります。</dd> -->
 
 
-<!--  <dd><a href="./la2025s_program_v2.pdf" target="_blank">プログラム(PDF形式)</a></dd> -->
+<dd><a href="./la2026s_program.pdf" target="_blank">プログラム(PDF形式)</a></dd>
   <dt>会場</dt>
   <dd><a href="https://www.mito-hall.jp/" target="_blank">水戸市民会館</a> 中会議室303・304 </dd>
   <dd>〒310-0026 <a href="https://maps.app.goo.gl/XZN7xDwAgeg9zd7L9" target="_blank">茨城県水戸市泉町1丁目7番1号</a></dd>
