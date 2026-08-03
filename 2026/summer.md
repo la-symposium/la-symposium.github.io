@@ -46,7 +46,7 @@ title: LA Symposium 2026, 夏のLA
 
 
   <a href="{{site.baseurl}}/2026/260728GroupPhoto.JPG">
-  <img src="{{site.baseurl}}/2026/260727GroupPhoto.JPG" border="0" width="583px" height="375px"></a>
+  <img src="{{site.baseurl}}/2026/260728GroupPhoto.JPG" border="0" width="583px" height="375px"></a>
 
 
 参加登録
