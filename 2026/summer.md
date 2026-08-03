@@ -44,12 +44,10 @@ title: LA Symposium 2026, 夏のLA
   <dd>〒310-0026 <a href="https://maps.app.goo.gl/XZN7xDwAgeg9zd7L9" target="_blank">茨城県水戸市泉町1丁目7番1号</a></dd>
 </dl>
 
-<!--
-<p>
-  <a href="{{site.baseurl}}/2025/250724GroupPhoto.JPG">
-  <img src="{{site.baseurl}}/2025/250724GroupPhoto.JPG" border="0" width="573px" height="200px"></a>
-</p>
--->
+
+  <a href="{{site.baseurl}}/2026/260728GroupPhoto.JPG">
+  <img src="{{site.baseurl}}/2026/260727GroupPhoto.JPG" border="0" width="583px" height="375px"></a>
+
 
 参加登録
 --------
